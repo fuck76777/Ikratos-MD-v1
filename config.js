@@ -48,24 +48,24 @@ global.sdc = '-' //Fill it out using the Discord link, if there is one, just lea
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '916201114061' //Nomor Danamu
+global.ppulsa = '916201114061' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
+global.nomorbot = '32495607080' //Nomor Bot
+global.nomorown = '916201114061' //Nomor Owner
 global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nameown = 'Διៜհι♛︎⟆υʀαյ♛︎Ƙυʍαʀ' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //Replace your number with your name
+  ['923470027813', 'Διៜհι♛︎⟆υʀαյ♛︎Ƙυʍαʀ🎐', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['923470027813','68673045381','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['916201114061','32495607080','6201114061'] // Premium user is not here to add it, type .addprem @ user 10
 
 
 global.lolkey = 'apikeymu'
